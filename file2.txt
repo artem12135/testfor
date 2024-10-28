@@ -1,4 +1,4 @@
 file for commit
-some changes
+checking conflicts here
 fixing bug
 
